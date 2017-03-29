@@ -1,0 +1,20 @@
+{
+  "name": "laravel-users",
+  "authors": [
+    "Yassine Khachlek <yassine.khachlek@gmail.com>"
+  ],
+  "homepage": "https://github.com/yassine-khachlek/laravel-users",
+  "description": "",
+  "main": "",
+  "license": "GPLv2",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "font-awesome": "^4.7.0"
+  }
+}
